@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dasdipanjan04&label=Profile%20views&color=0e75b6&style=flat" alt="dasdipanjan04" /> </p>
 ### Hi there 👋
 
 - 🔭 I’m currently working on a project named [ExplAIstic](https://github.com/dasdipanjan04/ExplAIstic) which generates captions and hashtags for images and reels
