@@ -5,7 +5,7 @@
 - 🌱 I’m currently working in Automotive Software Development (mainly Embedded Systems, C and C++)
 - 👯 I’m looking to collaborate on ExplAIstic
 - 🤔 I’m looking for help with Web Development, mainly with HTML and CSS
-- 💬 Ask me about Anything, if I don't it would love to collaborate
+- 💬 Ask me about Anything, if I don't I would love to collaborate
 - 📫 How to reach me: will tell you later
 - ⚡ Fun fact: C, C++, Mathematics and Statistics are my strgeths.
 <div style="display: flex; flex-wrap: wrap; align-items: center; margin-bottom: 50px;">
