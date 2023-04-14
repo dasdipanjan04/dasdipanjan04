@@ -16,8 +16,8 @@
   <a href="https://linkedin.com/in/dasdipanjan04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dasdipanjan04" height="30" width="40" /></a>
   <a href="https://instagram.com/ddipanjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ddipanjan" height="30" width="40" /></a>
   </p>
-  <img align="left" width="47%" height="200px" src="https://github-readme-stats.vercel.app/api?username=dasdipanjan04&show_icons=true&theme=radical"/>
-  <img align="left" width="47%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasdipanjan04&hide_progress=true"/>
+  <img align="left" width="47%" height="200px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dasdipanjan04&show_icons=true&theme=radical"/>
+  <img align="left" width="47%" height="200px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dasdipanjan04&hide_progress=true"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dasdipanjan04&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Dipanjan Das" />
 <a href="https://github.com/dasdipanjan04"><img src="https://github-profile-trophy.vercel.app/?username=dasdipanjan04&margin-w=5&theme=radical" alt="Dipanjan Das" />
 </div>
