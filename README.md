@@ -18,7 +18,7 @@
 </p>
 <!-- img align="left" width="47%" height="200px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dasdipanjan04&show_icons=true&theme=radical"/ -->   <h3 align="left">
   <p align="left">
-    <img align="left" width="47%" height="50px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dasdipanjan04&hide_progress=true"/>
+    <img align="left" width="47%" height="200px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dasdipanjan04&hide_progress=true">
   </p>
 </h3>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dasdipanjan04&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Dipanjan Das" />
