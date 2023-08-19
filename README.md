@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a project named [ExplAIstic](https://github.com/dasdipanjan04/ExplAIstic) which generates captions and hashtags for images and reels
+- 🔭 I’m currently working on a project named [ExplAIstic](https://github.com/dasdipanjan04/ExplAIstic) which generates captions and hashtags for images and reels. You can try it out here: https://www.capgenaize.com
 - 🌱 I’m currently working in Automotive Software Development (mainly Embedded Systems, C and C++)
 - 👯 I’m looking to collaborate on ExplAIstic
 - 🤔 I’m looking for help with Web Development, mainly with HTML and CSS
