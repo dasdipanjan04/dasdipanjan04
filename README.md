@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a project named [ExplAIstic](https://github.com/dasdipanjan04/ExplAIstic) which generates captions and hashtags for images and reels.
-- 🌱 I’m currently working in Automotive Software Development (mainly Embedded Systems, C and C++)
+- 🌱 I’m currently working in Automotive Software Development (mainly Embedded Systems, Embedded AI, Quantization, Inference Optimization, C, C++ and, python)
 - 👯 I’m looking to collaborate on ExplAIstic
 - 🤔 I’m looking for help with Web Development, mainly with HTML and CSS
 - 💬 Ask me about Anything, if I don't I would love to collaborate
