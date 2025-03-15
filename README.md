@@ -2,9 +2,7 @@
 
 - 🔭 I’m currently working on a project named [ExplAIstic](https://github.com/dasdipanjan04/ExplAIstic) which generates captions and hashtags for images and reels.
 - 🌱 I’m currently working in Automotive Software Development (mainly Embedded Systems, Embedded AI, Quantization, Inference Optimization, C, C++ and, python)
-- 👯 I’m looking to collaborate on ExplAIstic
-- 🤔 I’m looking for help with Web Development, mainly with HTML and CSS
-- 💬 Ask me about Anything, if I don't I would love to collaborate
+- 💬 Ask me about Anything, if I don't know I would love to collaborate
 - 📫 How to reach me: will tell you later
 - ⚡ Fun fact: C, C++, Mathematics and Statistics are my strgeths.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dasdipanjan04&label=Profile%20views&color=0e75b6&style=flat" alt="dasdipanjan04" /> </p>
